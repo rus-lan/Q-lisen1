@@ -1,0 +1,19 @@
+{
+  "name": "q-lisen1-tasks-api",
+  "version": "1.0.0",
+  "description": "Tutorial fixture for the opencode course — a tiny in-memory tasks REST API. NOT for production use.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "tutorial",
+    "opencode",
+    "fixture",
+    "demo",
+    "tasks-api"
+  ],
+  "author": "opencode course",
+  "license": "MIT"
+}
